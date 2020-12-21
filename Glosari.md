@@ -1,6 +1,6 @@
 **Glosari i Dramatis Personae de la Crònica Procesum de Nostradamus**. [Crònica Procesum](https://twitter.com/CronicaProcesum)
 
-<a name="consilium"></a>**Consiluim**: Referencia al Consell per la República.
+<a name="consilium"></a>**Consiluim**: Referencia al [Consell per la República](https://consellrepublica.cat/).
 
 <a name="escollits"></a>**escollits**: Càrrecs electes que formen part del Consell de la República.
 
