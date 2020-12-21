@@ -4,4 +4,4 @@
 
 <a name="escollits"></a>**escollits**: Càrrecs electes que formen part del Consell de la República.
 
-<a name="sinistra"></a>**sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
+<a name="sinistra"></a>**sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
