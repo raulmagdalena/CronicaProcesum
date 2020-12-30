@@ -8,7 +8,12 @@ la [sinistra de la res publica](https://github.com/raulmagdalena/CronicaProcesum
 
 hauran d'estar llestos, però no en són prou.
 
-<a name="II"></a>[Profecia II]()
+<a name="II"></a>[Profecia II](https://twitter.com/CronicaProcesum/status/1344358458456494081)
+
+[L'insular](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#insular) es declararà llest per a la [veu del demos](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#veudeldemos),
+el [ballarí de Gerunda](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#ballari) marxarà de la [marca](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#marca),
+però arribarà a la [cancelleria](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#cancelleria) per tractar amb les [colònies](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#colonies).
+La de la [creu](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#creu) abandonarà [la taronja](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari.md#taronja).
 
 
 
