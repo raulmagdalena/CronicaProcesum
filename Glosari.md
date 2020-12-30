@@ -12,10 +12,10 @@
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
-<a name="insular"></a>**L'insular**: Per referencvias a una illa, és, suposadament Salvador Illa.
+<a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament Salvador Illa.
 
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
 <a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
 
-<a name="veu del demos"></a>**Veu del demos**: El "demos" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
+<a name="veudeldemos"></a>**Veu del demos**: El "demos" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
