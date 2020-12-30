@@ -1,7 +1,21 @@
 **Glosari i Dramatis Personae de la Crònica Procesum de Nostradamus**. [Crònica Procesum](https://twitter.com/CronicaProcesum)
 
+<a name="ballari"></a>**El ballarí de Gerunda**: Miquel Iceta, secretari general del PSC, i que fou batlle de Girona (Gerunda en llatí). És conegut per ballar a l'escenari polític. També se'l coneix com la "mandonguilla ballaruga".
+
+<a name="cancelleria"></a>**Cancelleria**: A molts països llatinoamericans, la "cancilleria" designa el Ministeri d'Afers Exteriors. Es creu que fa referència al Ministeri de Política Territorial espanyol.
+
+<a name="colonies"></a>**Colònies**: Probable referència a les Comunitats Autònomes de l'antiga Corona d'Aragó.
+
 <a name="consilium"></a>**Consilium**: Referencia al [Consell per la República](https://consellrepublica.cat/).
 
-<a name="escollits"></a>**escollits**: Càrrecs electes que formen part del Consell de la República.
+<a name="creu"></a>**La de la creu**:
 
-<a name="sinistra"></a>**sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
+<a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
+
+<a name="insular"></a>**L'insular**: Per referencvias a una illa, és, suposadament Salvador Illa.
+
+<a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
+
+<a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
+
+<a name="veu del demos"></a>**Veu del demos**: El "demos" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
