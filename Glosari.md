@@ -8,7 +8,7 @@
 
 <a name="consilium"></a>**Consilium**: Referencia al [Consell per la República](https://consellrepublica.cat/).
 
-<a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari.md).
+<a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari.md#taronja).
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
