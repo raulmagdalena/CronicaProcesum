@@ -20,4 +20,4 @@
 
 <a name="taronja"></a>**Taronja**: Color del partit polítics Ciutadans.
 
-<a name="veudeldemos"></a>**Veu del demos**: El "demos" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
+<a name="veudeldemos"></a>**Veu del demos**: El "[demos](https://ca.wikipedia.org/wiki/Demos)" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
