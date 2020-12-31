@@ -12,7 +12,7 @@
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
-<a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament Salvador Illa.
+<a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament [Salvador Illa](https://ca.wikipedia.org/wiki/Salvador_Illa_i_Roca).
 
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
