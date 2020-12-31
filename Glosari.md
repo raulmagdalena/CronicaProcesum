@@ -8,7 +8,7 @@
 
 <a name="consilium"></a>**Consilium**: Referencia al [Consell per la República](https://consellrepublica.cat/).
 
-<a name="creu"></a>**La de la creu**:
+<a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari.md).
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
@@ -17,5 +17,7 @@
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
 <a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
+
+<a name="taronja"></a>**Taronja**: Color del partit polítics Ciutadans.
 
 <a name="veudeldemos"></a>**Veu del demos**: El "demos" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
