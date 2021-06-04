@@ -35,7 +35,7 @@ hi ha Rubicó que el [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/b
 
 **Concordança històrica**:
 
-Després del nomenament de Pere Aragonès com a president de la Generalitat semblava tornar a arrencar la taula de diàleg, interpretació probable a la treva si es contraposa a una via unilateral, la guerra. El Govern va proposar que Oriol Junqueres participés en la taula de diàleg. El Gobierno va deixar clar que els temes a discutir tenien uns límits ben definits, és a dir, el referendum d'autodeterminació no entrava dins la Constitución. El Presidente del Gobierno no podia oferir als independentistes catalans cap canvi sense provocar un enfrontament amb l'estat, similar, en opinió del profeta, al provocat per Juli Cessar en travessar el riu Rubicó.
+Després del nomenament de Pere Aragonès com a president de la Generalitat semblava tornar a arrencar la taula de diàleg, interpretació probable a la treva si es contraposa a una via unilateral, la guerra. El Govern va proposar que Oriol Junqueres participés en la taula de diàleg. El Gobierno va deixar clar que els temes a discutir tenien uns límits ben definits, és a dir, el referendum d'autodeterminació no entrava dins la Constitución. El Presidente del Gobierno no podia oferir als independentistes catalans cap canvi sense provocar un enfrontament amb l'estat, similar, en opinió del profeta, al provocat per Juli Cèsar en travessar el riu Rubicó.
 
 ============================================================================================================
 
