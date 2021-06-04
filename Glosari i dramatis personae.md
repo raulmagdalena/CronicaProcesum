@@ -18,7 +18,7 @@
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
-<a name="Imperi del Centre"></a>**Imperi del Centre**: És acceptat que es refereix al "Gobierno de España".
+<a name="impericentre"></a>**Imperi del Centre**: És acceptat que es refereix al "Gobierno de España".
 
 <a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament [Salvador Illa](https://ca.wikipedia.org/wiki/Salvador_Illa_i_Roca).
 
