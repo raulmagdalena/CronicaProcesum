@@ -22,7 +22,7 @@ La de la [creu](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosa
 
 =============================================================================================================
 
-<a name="III"></a>**[Profecia III]()**
+<a name="III"></a>**[Profecia III](https://twitter.com/CronicaProcesum/status/1401086508287811584)**
 
 El [rei Pere](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#reipere) s'asseurà al tron i reclamarà [treva](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#treva) per a no fer la guerra,
 
