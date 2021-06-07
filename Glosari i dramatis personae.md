@@ -16,6 +16,8 @@
 
 <a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari%20i%20dramatis%20personae.md#taronja).
 
+<a name="emperador"></a>**Emperador**
+
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
 <a name="impericentre"></a>**Imperi del Centre**: És acceptat que es refereix al "Gobierno de España".
@@ -24,6 +26,8 @@
 
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
+<a name="morats"</a>**Morats**: Suposadament, simpatitzants de Podemos.
+
 <a name="reipere"></a>**rei Pere**: Probable referència al President de la Generalitat, <a href="https://ca.wikipedia.org/wiki/Pere_Aragon%C3%A8s_i_Garcia">Pere Aragonès</a>.
 
 <a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
@@ -31,5 +35,7 @@
 <a name="taronja"></a>**Taronja**: Color del partit polítics Ciutadans.
 
 <a name="treva"></a>**Treva**: Hom interpreta la "treva" com la **taula de diàleg** amb el Gobierno, en contraposició a la "guerra", representada per la vía unilateral.
+
+<a name="vermells"></a>**Vermells**: Suposadament, simpatitzants del PSOE.
 
 <a name="veudeldemos"></a>**Veu del demos**: El "[demos](https://ca.wikipedia.org/wiki/Demos)" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
