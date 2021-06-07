@@ -39,5 +39,14 @@ Després del nomenament de Pere Aragonès com a president de la Generalitat semb
 
 ============================================================================================================
 
+<a name="IV"></a>**[Pofeccia IV]()**
+L'[Emperador](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#emperador) rebutjarà la lex dels jutges de la mare pàtria,
+
+indignats i incrèduls buscaran el culpable, ells no hi han comes cap error.
+
+El [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) serà acusat de traïció,
+
+i XXVI milions de [vermells](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#vermells) i [morats](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#morats) en seran declarats culpables.
 
 
+**Concordança històrica**:
