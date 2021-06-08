@@ -26,7 +26,7 @@
 
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
-<a name="morats"</a>**Morats**: Suposadament, simpatitzants de Podemos.
+<a name="morats"></a>**Morats**: Suposadament, simpatitzants de Podemos.
 
 <a name="reipere"></a>**rei Pere**: Probable referència al President de la Generalitat, <a href="https://ca.wikipedia.org/wiki/Pere_Aragon%C3%A8s_i_Garcia">Pere Aragonès</a>.
 
