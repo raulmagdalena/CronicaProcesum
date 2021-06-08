@@ -16,13 +16,15 @@
 
 <a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari%20i%20dramatis%20personae.md#taronja).
 
-<a name="emperador"></a>**Emperador**
+<a name="emperador"></a>**Emperador**: La Unió Europea. Com ho era el [Sacre emperador romangermànic](https://ca.wikipedia.org/wiki/Sacre_emperador_romanogerm%C3%A0nic), és l'autoritat més gran a Europa.
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
 <a name="impericentre"></a>**Imperi del Centre**: És acceptat que es refereix al "Gobierno de España".
 
 <a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament [Salvador Illa](https://ca.wikipedia.org/wiki/Salvador_Illa_i_Roca).
+
+<a name="jutjespatria"></a>**Jutges de la mare patria**: Els especialistes creuen que fa referència als "jutges patriotes", és a dir, els jutges que posen la pàtria davant la llei, pertanyin al tribunal que pertanyin. En aquest context fa segurament referència als jutges que han aplicat el lawfare per a poder condemnar els presos polítics amb una suposada raó d'estat.
 
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
@@ -38,4 +40,6 @@
 
 <a name="vermells"></a>**Vermells**: Suposadament, simpatitzants del PSOE.
 
-<a name="veudeldemos"></a>**Veu del demos**: El "[demos](https://ca.wikipedia.org/wiki/Demos)" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública. 
+<a name="veudeldemos"></a>**Veu del demos**: El "[demos](https://ca.wikipedia.org/wiki/Demos)" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública.
+
+<a name="XXVImilions"></a>**XXVI milions**: Resumint, és la "[antiespaña](https://es.wikipedia.org/wiki/Antiespa%C3%B1a)". Clarivident referència de Nostradamus al xat en el que un general retirat [desitjava afusellar 26 milions d'espanyols](https://www.publico.es/sociedad/general-retirado-alaba-franco-y.html). També deia que Espanya estava fragmentada entre bons i dolents. Suposadament volia afusellar als dolents que no pensaven com ell.
