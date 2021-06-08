@@ -24,7 +24,7 @@ La de la [creu](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosa
 
 **Concordança històrica**:
 
-=============================================================================================================
+============================================================================================================
 
 <a name="III"></a>**[Profecia III](https://twitter.com/CronicaProcesum/status/1401086508287811584)**
 
@@ -43,7 +43,7 @@ Després del nomenament de Pere Aragonès com a president de la Generalitat semb
 
 ===========================================================================================================
 
-<a name="IV"></a>**[Pofecia IV](https://twitter.com/CronicaProcesum/status/1402173655581396998)**
+<a name="IV"></a>**[Profecia IV](https://twitter.com/CronicaProcesum/status/1402173655581396998)**
 
 El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casaarbre),
 
