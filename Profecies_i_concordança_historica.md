@@ -8,9 +8,11 @@ la [sinistra de la res publica](https://github.com/raulmagdalena/CronicaProcesum
 
 hauran d'estar llestos, però no en són prou.
 
+**Concordança històrica**:
+
 ===========================================================================================================
 
-<a name="II"></a>[Profecia II](https://twitter.com/CronicaProcesum/status/1344358458456494081)
+<a name="II"></a>**[Profecia II]**(https://twitter.com/CronicaProcesum/status/1344358458456494081)
 
 [L'insular](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#insular) es declararà llest per a la [veu del demos](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari.md#veudeldemos),
 
@@ -19,6 +21,8 @@ el [ballarí de Gerunda](https://github.com/raulmagdalena/CronicaProcesum/blob/m
 però arribarà a la [cancelleria](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cancelleria) per tractar amb les [colònies](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#colonies).
 
 La de la [creu](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#creu) abandonarà [la taronja](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#taronja).
+
+**Concordança històrica**:
 
 =============================================================================================================
 
@@ -39,7 +43,7 @@ Després del nomenament de Pere Aragonès com a president de la Generalitat semb
 
 ===========================================================================================================
 
-<a name="IV"></a>**[Pofecia IV]()**
+<a name="IV"></a>**[Pofecia IV](https://twitter.com/CronicaProcesum/status/1402173655581396998)**
 
 El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casaarbre),
 
@@ -50,3 +54,5 @@ farà pública penitència,
 NO ho tornaré a fer.
 
 **Concordança històrica**:
+
+A principis de Juny del 2021, Oriol Junqueres va fer unes declaración en les que qualifica [d'indesitjable qualsevol via que no sigui la pactada amb Espanya](https://www.vilaweb.cat/noticies/junqueras-qualifica-dindesitjable-qualsevol-via-que-no-sigui-la-pactada-amb-lestat/). Alguns historiadors especulen que, amb la proximitat del indults, aquestes declaracions no siguin un subtil arrepentiment, la manca del qual era un [argument utilitzat pel Tribunal Supremo en el seu informe](https://www.europapress.es/nacional/noticia-supremo-informa-contra-indultar-presos-proces-porque-no-hay-arrepentimiento-20210526122600.html) negatiu al Gobierno. 
