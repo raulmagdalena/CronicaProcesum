@@ -39,7 +39,7 @@ Després del nomenament de Pere Aragonès com a president de la Generalitat semb
 
 ===========================================================================================================
 
-<a name="IV"></a>**[Pofeccia IV]()**
+<a name="IV"></a>**[Pofecia IV]()**
 
 El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casaarbre),
 
