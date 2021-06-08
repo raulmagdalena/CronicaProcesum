@@ -26,7 +26,7 @@ La de la [creu](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosa
 
 El [rei Pere](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#reipere) s'asseurà al tron i reclamarà [treva](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#treva) per a no fer la guerra,
 
-la participació del [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) que viu a la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#sacaarbre) serà demanada.
+la participació del [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) que viu a la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casaarbre) serà demanada.
 
 [L'Imperi del Centre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#impericentre) marca les fronteres,
 
@@ -41,7 +41,7 @@ Després del nomenament de Pere Aragonès com a president de la Generalitat semb
 
 <a name="IV"></a>**[Pofeccia IV]()**
 
-El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#sacaarbre),
+El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casa),
 
 vol el perdó del [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar),
 
