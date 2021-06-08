@@ -12,7 +12,7 @@ hauran d'estar llestos, però no en són prou.
 
 ===========================================================================================================
 
-<a name="II"></a>**[Profecia II]**(https://twitter.com/CronicaProcesum/status/1344358458456494081)
+<a name="II"></a>**[Profecia II](https://twitter.com/CronicaProcesum/status/1344358458456494081)**
 
 [L'insular](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#insular) es declararà llest per a la [veu del demos](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari.md#veudeldemos),
 
