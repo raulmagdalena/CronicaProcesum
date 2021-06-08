@@ -37,16 +37,16 @@ hi ha Rubicó que el [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/b
 
 Després del nomenament de Pere Aragonès com a president de la Generalitat semblava tornar a arrencar la taula de diàleg, interpretació probable a la treva si es contraposa a una via unilateral, la guerra. El Govern va proposar que Oriol Junqueres participés en la taula de diàleg. El Gobierno va deixar clar que els temes a discutir tenien uns límits ben definits, és a dir, el referendum d'autodeterminació no entrava dins la Constitución. El Presidente del Gobierno no podia oferir als independentistes catalans cap canvi sense provocar un enfrontament amb l'estat, similar, en opinió del profeta, al provocat per Juli Cèsar en travessar el riu Rubicó.
 
-============================================================================================================
+===========================================================================================================
 
 <a name="IV"></a>**[Pofeccia IV]()**
-L'[Emperador](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#emperador) rebutjarà la lex dels jutges de la mare pàtria,
 
-indignats i incrèduls buscaran el culpable, ells no hi han comes cap error.
+El [Bon Home](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#bonhome) vol sortir de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#sacaarbre),
 
-El [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) serà acusat de traïció,
+vol el perdó del [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar),
 
-i XXVI milions de [vermells](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#vermells) i [morats](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#morats) en seran declarats culpables.
+farà pública penitència,
 
+NO ho tornaré a fer.
 
 **Concordança històrica**:
