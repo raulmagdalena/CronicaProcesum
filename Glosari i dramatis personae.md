@@ -14,15 +14,21 @@
 
 <a name="consilium"></a>**Consilium**: Referencia al [Consell per la República](https://consellrepublica.cat/).
 
+<a name="consiliumemperador"></a>**Consilium del Emperador**: Consell d'Europa.
+
 <a name="creu"></a>**La de la creu**: Probable referència a [Lorena Roldán](https://ca.wikipedia.org/wiki/Lorena_Rold%C3%A1n_Su%C3%A1rez), diputada per Ciutadans, el color del qual és el [taronja](https://github.com/raulmagdalena/CronicaProcesum/edit/main/Glosari%20i%20dramatis%20personae.md#taronja).
 
 <a name="emperador"></a>**Emperador**: La Unió Europea. Com ho era el [Sacre emperador romangermànic](https://ca.wikipedia.org/wiki/Sacre_emperador_romanogerm%C3%A0nic), és l'autoritat més gran a Europa.
 
 <a name="escollits"></a>**Escollits**: Càrrecs electes que formen part del Consell de la República.
 
+<a name="gremisjutges"></a>**Gremis dels jutges**: Associacions judicials.
+
 <a name="impericentre"></a>**Imperi del Centre**: És acceptat que es refereix al "Gobierno de España".
 
 <a name="insular"></a>**L'insular**: Per referencias a una illa, és, suposadament [Salvador Illa](https://ca.wikipedia.org/wiki/Salvador_Illa_i_Roca).
+
+<a name="jordisanchez"></a>**Jordi a l'arbre**: Jordi Sanchez, president de Junts per Catalunya.
 
 <a name="jutjespatria"></a>**Jutges de la mare patria**: Els especialistes creuen que fa referència als "jutges patriotes", és a dir, els jutges que posen la pàtria davant la llei, pertanyin al tribunal que pertanyin. En aquest context fa segurament referència als jutges que han aplicat el lawfare per a poder condemnar els presos polítics amb una suposada raó d'estat.
 
@@ -30,11 +36,17 @@
 
 <a name="morats"></a>**Morats**: Suposadament, simpatitzants de Podemos.
 
+<a name="perdo"></a>**Perdó**: Els indults.
+
 <a name="reipere"></a>**rei Pere**: Probable referència al President de la Generalitat, <a href="https://ca.wikipedia.org/wiki/Pere_Aragon%C3%A8s_i_Garcia">Pere Aragonès</a>.
 
 <a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
 
+<a name="sublim"></a>**Sublim Porta**: En temps de Nostradamus, era el nom donat al govern i palau del sobirà de l'Imperi Otomà, i per tant s'entén que es refereix a Turquia.
+
 <a name="taronja"></a>**Taronja**: Color del partit polítics Ciutadans.
+
+<a name="templeteatre"></a>**Temple del teatre**: El gran Teatre del Liceu.
 
 <a name="treva"></a>**Treva**: Hom interpreta la "treva" com la **taula de diàleg** amb el Gobierno, en contraposició a la "guerra", representada per la vía unilateral.
 
@@ -42,4 +54,4 @@
 
 <a name="veudeldemos"></a>**Veu del demos**: El "[demos](https://ca.wikipedia.org/wiki/Demos)" és el poble en grec, així que "la veu del demos" s'ha interpretat com unes eleccions, o bé, l'opinió pública.
 
-<a name="XXVImilions"></a>**XXVI milions**: Resumint, és la "[antiespaña](https://es.wikipedia.org/wiki/Antiespa%C3%B1a)". Clarivident referència de Nostradamus al xat en el que un general retirat [desitjava afusellar 26 milions d'espanyols](https://www.publico.es/sociedad/general-retirado-alaba-franco-y.html). També deia que Espanya estava fragmentada entre bons i dolents. Suposadament volia afusellar als dolents que no pensaven com ell.
+<a name="xxvi"></a>**XXVI milions**: Resumint, és la "[antiespaña](https://es.wikipedia.org/wiki/Antiespa%C3%B1a)". Clarivident referència de Nostradamus al xat en el que un general retirat [desitjava afusellar 26 milions d'espanyols](https://www.publico.es/sociedad/general-retirado-alaba-franco-y.html). També deia que Espanya estava fragmentada entre bons i dolents. Suposadament volia afusellar als dolents que no pensaven com ell.
