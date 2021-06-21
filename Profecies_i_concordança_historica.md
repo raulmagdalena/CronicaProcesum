@@ -87,23 +87,23 @@ i [XXVI milions](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glos
 
 ===========================================================================================================
 
-<a name="VII"></a>**[Profecia VII](https://twitter.com/CronicaProcesum/status/1406662395003654149)
+<a name="VII"></a>**[Profecia VII](https://twitter.com/CronicaProcesum/status/1406662395003654149)**
 
 La lex de l'[Emperador](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#emperador) esmenarà el [jutges](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#jutjespatria) de [l'Imperi del Centre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#impericentre),
 
-els [gremis dels jutges](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#gremisjutges) demanaran al [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) que canviï el decret del [consilium](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#conselleuropa).
+els [gremis dels jutges](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#gremisjutges) demanaran al [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) que canviï el decret del consilium.
 
-La [Sublim Porta]() i l'[Imperi del Centre]() al mateix nivell,
+La [Sublim Porta](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#sublim) i l'[Imperi del Centre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#impericentre) al mateix nivell,
 
-la [veu del Demos]() serà plena.
+la [veu del Demos](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#veudeldemos) serà plena.
 
 **Concordança històrica**:
 
 ===========================================================================================================
 
-<a name="VIII"></a>**[Profecia VIII](https://twitter.com/CronicaProcesum/status/1406887116571877376)
+<a name="VIII"></a>**[Profecia VIII](https://twitter.com/CronicaProcesum/status/1406887116571877376)**
 
-Al [temple del teatre]() el [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) vol concedir el [perdó](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#perdo),
+Al [temple del teatre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#templeteatre) el [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) vol concedir el [perdó](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#perdo),
 
 peripatètic és que ho faci a [la Marca](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#marca),
 
