@@ -48,7 +48,7 @@
 
 <a name="templeteatre"></a>**Temple del teatre**: El gran Teatre del Liceu.
 
-<a name="treva"></a>**Treva**: Hom interpreta la "treva" com la **taula de diàleg** amb el Gobierno, en contraposició a la "guerra", representada per la vía unilateral.
+<a name="treva"></a>**Treva**: Hom interpreta la "treva" com la taula de diàleg amb el Gobierno, en contraposició a la "guerra", representada per la vía unilateral.
 
 <a name="vermells"></a>**Vermells**: Suposadament, simpatitzants del PSOE.
 
