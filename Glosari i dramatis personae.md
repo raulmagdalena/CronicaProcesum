@@ -8,6 +8,8 @@
 
 <a name="casaarbre"></a>**Casa del arbre**: Com que la identificació de personatges que viuen a la "casa de l'arbre" és coincident amb els presos polítics que són a Lledoners, i que un [lledoner](https://ca.wikipedia.org/wiki/Lledoner) és un arbre, s'identifica amb la presó de Lledoners.
 
+<a name="casamuntanya"></a>**Casa de la muntanya**: Identificació de la presó de Can Bases, situada dalt d'un turó a prop de Figueres.
+
 <a name="cesar"></a>**Cèsar**: El president del "Gobierno de España".
 
 <a name="colonies"></a>**Colònies**: Probable referència a les Comunitats Autònomes de l'antiga Corona d'Aragó.
@@ -37,6 +39,8 @@
 <a name="morats"></a>**Morats**: Suposadament, simpatitzants de Podemos.
 
 <a name="perdo"></a>**Perdó**: Els indults.
+
+<a name="plebeus"></a>**Plebeus**: La gent del carrer, en contraposició als polítics.
 
 <a name="reipere"></a>**rei Pere**: Probable referència al President de la Generalitat, <a href="https://ca.wikipedia.org/wiki/Pere_Aragon%C3%A8s_i_Garcia">Pere Aragonès</a>.
 
