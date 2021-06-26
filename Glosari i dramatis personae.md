@@ -34,6 +34,8 @@
 
 <a name="jutjespatria"></a>**Jutges de la mare patria**: Els especialistes creuen que fa referència als "jutges patriotes", és a dir, els jutges que posen la pàtria davant la llei, pertanyin al tribunal que pertanyin. En aquest context fa segurament referència als jutges que han aplicat el lawfare per a poder condemnar els presos polítics amb una suposada raó d'estat.
 
+<a name="jutgesmoneda"></a>**Jutges de la moneda**: Referència al **Tribunal de Cuentas**, encarregat de vigilar les despeses, suposadament il·legals, realitzades pels organismes públics.
+
 <a name="marca"></a>**La Marca**: Antigament, la <a href="http://bit.ly/Marca_Hispanica">Marca Hispànica</a> dels francs i origen polític de Catalunya.
 
 <a name="morats"></a>**Morats**: Suposadament, simpatitzants de Podemos.
@@ -42,6 +44,8 @@
 
 <a name="plebeus"></a>**Plebeus**: La gent del carrer, en contraposició als polítics.
 
+<a name="feix"></a>**Portadors del feix**: Suposada referència als feixistes. El feixisme italià va adoptar com a símbol els feixos dels [lictors romans](https://ca.wikipedia.org/wiki/Lictor) (d'aquí el seu nom), símbol del ***imperium***, és a dir, l'autoritat per governar. Els dictadors romans tenien dret a fer-se acompanyar per 24 lictors.
+ 
 <a name="reipere"></a>**rei Pere**: Probable referència al President de la Generalitat, <a href="https://ca.wikipedia.org/wiki/Pere_Aragon%C3%A8s_i_Garcia">Pere Aragonès</a>.
 
 <a name="sinistra"></a>**Sinistra de la res publica**: Es creu que fa referencia a Esquerra ([sinistra](https://es.thefreedictionary.com/sinistra)) Republicana (de la [res publica](https://ca.wikipedia.org/wiki/Res_publica)) de Catalunya.
