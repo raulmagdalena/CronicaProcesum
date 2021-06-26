@@ -10,6 +10,9 @@ hauran d'estar llestos, però no en són prou.
 
 **Concordança històrica**:
 
+El Consell de la República va anunciar les eleccions a l'Assemblea de Representants (els escollits) de la que Esquerra Republicana de Catalunya es va despenjar.
+El Consell crida a preparar-se, però el nombre d'inscrits és baix per erigir-se com a representant de Catalunya.
+
 ===========================================================================================================
 
 <a name="II"></a>**[Profecia II](https://twitter.com/CronicaProcesum/status/1344358458456494081)**
@@ -67,9 +70,10 @@ A principis de juny del 2021, Oriol Junqueres va fer unes declaracións en les q
 
 No ho anàvem a fer, dirà,
 
-i gran confusió esdevindrà a  [la marca](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#marca).
+i gran confusió esdevindrà a [la marca](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#marca).
 
-**Concordança històrica**:
+
+Jordi Sànchez declarà que [1O no era per a fer la independència](https://www.vilaweb.cat/noticies/jordi-sanchez-primer-octubre-no-era-fer-independencia/), declaracions interpretades com a penediment necessari per a la concessió de l'indult. Les declaracions van generar una forta confusió entre les persones que van participar en el referèndum, que pensaven que sí que ho era.
 
 ===========================================================================================================
 
@@ -101,16 +105,34 @@ la [veu del Demos](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Gl
 
 ===========================================================================================================
 
-<a name="VIII"></a>**[Profecia VIII](https://twitter.com/CronicaProcesum/status/1406887116571877376)**
+<a name="IX"></a>**[Profecia IX](https://twitter.com/CronicaProcesum/status/1407247118667034627)**
 
-Al [temple del teatre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#templeteatre) el [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar) vol concedir el [perdó](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#perdo),
+[El perdó](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#perdo) serà concedit pel [Cèsar](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#cesar),
 
-peripatètic és que ho faci a [la Marca](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#marca),
+els homes sortiran de la [casa de l'arbre](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casaarbre),
 
-car no serà pedagogia aleshores,
+les dones de la [casa de la muntanya](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#casamuntanya),
 
-traurà a passejar "la solució".
+els [plebeus](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#plebeus) es preguntaran per la resta.
 
 **Concordança històrica**:
 
 ===========================================================================================================
+
+<a name="X"></a>**[Profecia X](https://twitter.com/CronicaProcesum/status/1407971833840869378)**
+
+El [perdó](https://github.com/raulmagdalena/CronicaProcesum/blob/main/Glosari%20i%20dramatis%20personae.md#plebeus) estarà concedit,
+
+els jutjats tornaran a les seves cases,
+
+ara, de la necessitat, virtut
+
+en reclamaran el preu.
+
+**Concordança històrica**:
+
+Suposada referència al fet que l'endemà de l'alliberament dels presos i preses polítiques (la virtut), el Gobierno en demanés un gest a l'independentisme (el preu) per quelcom que acabarà sent exigit pel TJUE (la necessitat).
+
+===========================================================================================================
+
+
